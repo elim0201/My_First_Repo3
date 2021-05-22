@@ -1,0 +1,48 @@
+nav {
+    height: 50px;
+    background-color: lightgray;
+}
+img {
+    
+    height: 100px;
+}
+.inline-block {
+    display: inline-block;
+    padding: 15px;
+}
+.left {
+    width: 29%;
+    height: 600px;
+    float: left;
+    background-color: lightblue;
+}
+.top_left {
+    padding: 15px;
+    border-style: inset;
+    height: 200px;
+    
+}
+.bottom_left {
+    padding: 15px;
+    border-style: inset;
+    height: 330px;
+    
+}
+.top_right {
+    padding: 15px;
+    border-style: inset;
+    height: 200px;
+    
+}
+.bottom_right {
+    padding: 15px;
+    border-style: inset;
+    height: 330px;
+    
+}
+.right {
+    width: 70%;
+    height: 600px;
+    float: left;
+    background-color: lightgreen;
+}
